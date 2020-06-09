@@ -1,0 +1,1 @@
+docker build . -t dart_flutter_web
